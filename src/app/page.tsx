@@ -6,7 +6,7 @@ import Product from "./products/page"
 import Top_sell from "./products/sell";
 import Dress from "./components/dress";
 
-import Image from "next/image";
+
 import CustomerCarousel from "./components/Carousel";
 
 
